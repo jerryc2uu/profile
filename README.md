@@ -1,9 +1,9 @@
 # 💡 About Me  
-👋 안녕하세요! 저는 백엔드 & 풀스택 개발자 **[박소연]** 입니다.  
+👋 안녕하세요! 저는 백엔드 & 풀스택 개발자입니다.  
 - 🚀 **Spring, Javascript, JQuery, 클라우드를 포함한 다양한 DB를 활용한 개발을 하고 있습니다.  
 - 💻 **Clean Code & Best Practice**를 지향합니다.  
 - 🌱 새로운 기술을 배우고, **개발 프로세스를 개선하는 것**을 좋아합니다.  
-- 📫 Contact: [jerryc2uu@gmail.com] | [GitHub](https://github.com/jerryc2uu) | [블로그(선택)]  
+- 📫 Contact: jerryc2uu@gmail.com | GitHub(https://github.com/jerryc2uu) 
 
 ---
 
@@ -61,6 +61,6 @@
 ---
 
 ## 📞 Contact  
-📩 Email: [jerryc2uu@gmail.com]  
-🐙 GitHub: [https://github.com/jerryc2uu]  
-🌐 Blog: [블로그 (선택)]  
+📩 Email: jerryc2uu@gmail.com  
+🐙 GitHub: https://github.com/jerryc2uu
+🌐 Blog: 블로그 (선택) 
